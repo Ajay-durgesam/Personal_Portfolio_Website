@@ -367,6 +367,13 @@ span{
 }
 
 
+#msg{
+  color: var(--main-color);
+  margin-top: -10px;
+  display: block;
+}
+
+
 /* media queries */
 
 @media (max-width:1200px){
